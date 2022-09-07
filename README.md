@@ -1,2 +1,2 @@
-# feast2023.github.io
-FEAST 2023
+# FEAST 2023 Bergen
+Website for FEAST 2023 Bergen, Norway: [feast2023.github.io](feast2023.github.io)
