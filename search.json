@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "FEAST (Formal and Experimental Advances in Sign Language Theory) is the regular forum to discuss formal approaches to sign language grammar (in particular in the generative tradition), experimental approaches to sign languages, and their interaction. FEAST is held as a conference series once every two years since 2015. The next installment will take place at the University of Bergen, Norway, on June 27th–29th, 2023. It is organized by the Department for Linguistic, Literary and Aesthetic Studies at the University of Bergen (UiB), and co-organized by the Western Norway University of Applied Sciences (HVL) and The Centre for Sign Linguistics and Deaf Studies of Chinese University of Hong Kong.\nInformation about previous FEAST conferences can be find here: https://sites.google.com/site/feastconference/home."
+    "text": "The grammars of signed languages are as highly complex as the grammars of spoken languages and share with them many universal features, despite the difference in modality between spoken languages (which use the auditory channel) and signed languages (which use the visual channel). Yet, sign languages also differ from spoken languages in radical ways: morphological information in sign languages is often conveyed simultaneously by different articulators rather than linearly; moreover, certain aspects of their phonological, syntactic and semantic structures are not commonly found in spoken languages. These differences raise an interesting challenge both for formal linguistic and experimental research frameworks."
   },
   {
     "objectID": "cfp.html",
@@ -25,7 +25,7 @@
     "href": "committees.html",
     "title": "Committees & Contact",
     "section": "",
-    "text": "Scientific committee\nTBA"
+    "text": "Vadim Kimmelman, (UiB)\nGiorgia Zorzi, (HVL)\nAri Price, (HVL)\nCarl “Calle” Börstell, (UiB)\n\n\n\nfeast2023bergen@gmail.com"
   },
   {
     "objectID": "cfp.html#conference-dates",
@@ -40,5 +40,33 @@
     "title": "Call for papers (CfP)",
     "section": "Venue",
     "text": "Venue\nUniversity of Bergen, Bergen, Norway + online"
+  },
+  {
+    "objectID": "committees.html#scientific-committee",
+    "href": "committees.html#scientific-committee",
+    "title": "Committees & Contact",
+    "section": "Scientific committee",
+    "text": "Scientific committee\nTBA"
+  },
+  {
+    "objectID": "committees.html#steering-committee",
+    "href": "committees.html#steering-committee",
+    "title": "Committees & Contact",
+    "section": "Steering committee",
+    "text": "Steering committee\n\nNatasha Abner\nVadim Kimmelman\nLara Mantovan\nMirko Santoro\nFelix Sze"
+  },
+  {
+    "objectID": "about.html#conference-series",
+    "href": "about.html#conference-series",
+    "title": "About",
+    "section": "Conference series",
+    "text": "Conference series\nFEAST (Formal and Experimental Advances in Sign Language Theory) is the regular forum to discuss formal approaches to sign language grammar (in particular in the generative tradition), experimental approaches to sign languages, and their interaction. FEAST is held as a conference series every one or two years. The next installment will take place at the University of Bergen, Norway, on June 27th–29th, 2023. It is organized by the Department for Linguistic, Literary and Aesthetic Studies at the University of Bergen (UiB), and co-organized by the Western Norway University of Applied Sciences (HVL) and The Centre for Sign Linguistics and Deaf Studies of Chinese University of Hong Kong.\nInformation about previous FEAST conferences can be find here: https://sites.google.com/site/feastconference/home."
+  },
+  {
+    "objectID": "about.html#proceedings",
+    "href": "about.html#proceedings",
+    "title": "About",
+    "section": "Proceedings",
+    "text": "Proceedings\nSince 2018, FEAST proceedings are published as an open-access journal: https://raco.cat/index.php/FEAST."
   }
 ]
